@@ -25,4 +25,3 @@ public:
     return coeff;
 }
 };
-//Hello Meow
